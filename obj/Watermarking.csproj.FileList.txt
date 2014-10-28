@@ -1,0 +1,8 @@
+bin\Debug\Watermarking.exe
+bin\Debug\Watermarking.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Watermarking.MainForm.resources
+obj\Debug\Watermarking.csproj.GenerateResource.Cache
+obj\Debug\Watermarking.exe
+obj\Debug\Watermarking.pdb
+obj\Debug\Watermarking.AboutForm.resources

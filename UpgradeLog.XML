@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Watermarking">
+</Property><Property Name="Solution File" Value="D:\Utilities\C#\Watermarking-12\Watermarking.sln">
+</Property><Property Name="Date" Value="Monday, December 22, 2008">
+</Property><Property Name="Time" Value="0:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Watermarking.sln" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\Watermarking.sln">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Watermarking.csproj" Description="Project file successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\Watermarking.csproj">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Form1.cs" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Form1.Designer.cs" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="MainForm.cs" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="MainForm.Designer.cs" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Program.cs" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Form1.resx" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="MainForm.resx" Description="File successfully backed up as D:\Utilities\C#\Watermarking-12\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Watermarking.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Watermarking" Source="Watermarking.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Watermarking.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Watermarking.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Watermarking" Source="Watermarking.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

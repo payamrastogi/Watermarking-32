@@ -1,0 +1,12 @@
+C:\Documents and Settings\Payam Rastogi\Desktop\w32\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Payam Rastogi\Desktop\w32\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Payam Rastogi\Desktop\w32\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Payam Rastogi\Desktop\w32\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Payam Rastogi\Desktop\w32\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Payam Rastogi\Desktop\w32\obj\Release\Watermarking.csproj.ResolveComReference.cache
+D:\Utilities\C#\w32\obj\Release\Interop.SHDocVw.dll
+D:\Utilities\C#\w32\obj\Release\Interop.ShockwaveFlashObjects.dll
+D:\Utilities\C#\w32\obj\Release\Interop.WMPLib.dll
+D:\Utilities\C#\w32\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Utilities\C#\w32\obj\Release\AxInterop.WMPLib.dll
+D:\Utilities\C#\w32\obj\Release\Watermarking.csproj.ResolveComReference.cache
